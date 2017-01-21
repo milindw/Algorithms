@@ -1,1 +1,2 @@
 Merge sort algorithm, using templates.
+Works for user defined types as well, with appropriate operator overloading.
