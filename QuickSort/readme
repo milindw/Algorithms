@@ -1,0 +1,3 @@
+Quick sort algorithm, using templates.
+Optionally choose the pivot element.
+Works for user defined types as well, with appropriate operator overloading.
